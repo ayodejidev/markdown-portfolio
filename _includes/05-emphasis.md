@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+### List of my **Technical** Skills:smile:
+1. *Web Development*
+2. *Cloud/DevOps*
+3. *IT Support*
